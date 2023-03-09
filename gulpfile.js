@@ -1,4 +1,5 @@
 var gulp = require('gulp');
+> My scary merge conflict code
 var browserSync = require('browser-sync').create();
 var reload = browserSync.reload;
 
